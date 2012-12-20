@@ -357,12 +357,12 @@
     </style>
 
     <style name="PeopleNavigationDropDownTextAppearance">
-        <item name="android:textColor">#333333</item>
+        <item name="android:textColor">#CFCFCF</item>
         <item name="android:textSize">18sp</item>
     </style>
 
     <style name="PeopleNavigationDropDownHeaderTextAppearance">
-        <item name="android:textColor">#cdffffff</item>
+        <item name="android:textColor">#DFDFDF</item>
         <item name="android:textSize">18sp</item>
     </style>
 
